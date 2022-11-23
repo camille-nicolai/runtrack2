@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 12px;
+}
+#style{
+    display: flex;
+    background-color: rgb(128, 208, 104);
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 130px;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: rgb(203, 10, 10);
+}
